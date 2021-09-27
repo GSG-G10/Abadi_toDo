@@ -1,0 +1,11 @@
+.add-data{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.to-do-list{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
